@@ -1,5 +1,5 @@
 # Learning-based sampled-data control
-This repository provides the code to reproduce the results in the paper "Is Data All That Matters? The Role of Control Frequency for the Stability and Closed-Loop Performance of Uncertain Systems", available here: https://arxiv.org/abs/2403.09504.
+This repository provides the code to reproduce the results in the paper "Is Data All That Matters? The Role of Control Frequency for Learning-Based Sampled-Data Control of Uncertain Systems", available here: https://arxiv.org/abs/2403.09504.
 
 In this paper, we combine Gaussian process (GP) model learning with sampled-data control to study the role of the control frequency for uncertain systems. Our proposed framework has the following structure:
 ![alt text](https://github.com/ralfroemer99/lb_sd/blob/main/framework_structure.jpg?raw=true)
